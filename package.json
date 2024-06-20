@@ -46,7 +46,7 @@
   },
   "homepage": "https://github.com/karelkryda/universal-speedtest#readme",
   "dependencies": {
-    "@types/node": "^18.11.0",
+    "@types/node": "^20.12.13",
     "convert-units": "^3.0.0-beta.0",
     "fast-xml-parser": "^4.0.11",
     "urllib": "^3.3.0",
